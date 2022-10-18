@@ -1,4 +1,10 @@
 # Tom Yum Soup (Thai soup)
+Contents
+* [Ingredients](#ingredients)
+* [Broth](#broth)
+* [Soup add ins](#soup-add-ins)
+* [Creamy Tom Yum option](#creamy-tom-yum-option)
+* [Instructions](#instructions)
 ## Ingredients
 * 300g / 10oz whole prawns / shrimp with heads and shells on
 ### Broth
@@ -9,7 +15,7 @@
 * 5 kaffir lime leaves , torn roughly
 * 2 Thai or birdseye chillies
 * 3 garlic cloves
-### SOUP ADD INS
+### Soup add ins
 * 120g / 4oz oyster mushrooms
 * 1 roma tomato , cut into wedges
 * 1/2 white onion (medium sized), cut into wedges about 1 cm thick
@@ -17,7 +23,7 @@
 * 3 tbsp fish sauce
 * 3 tbsp lime juice
 * Coriander/cilantro , for garnish
-### CREAMY TOM YUM OPTION
+### Creamy Tom Yum option
 * 1 1/2 tbsp Thai roasted chili sauce
 * 1/3 cup (75 ml) evaporated milk
 ---
