@@ -24,4 +24,6 @@
 ## Instructions
 #### [You can find instructions here](https://www.recipetineats.com/tom-yum-soup-thai/)
 ---
-
+>The only thing I've ever successfully made in the kitchen is a mess. And several small fires.
+>
+> *Carrie Bradshaw*
