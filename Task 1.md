@@ -9,3 +9,11 @@
 * 5 kaffir lime leaves , torn roughly
 * 2 Thai or birdseye chillies
 * 3 garlic cloves
+### SOUP ADD INS
+* 120g / 4oz oyster mushrooms
+* 1 roma tomato , cut into wedges
+* 1/2 white onion (medium sized), cut into wedges about 1 cm thick
+* 1 tsp sugar
+* 3 tbsp fish sauce
+* 3 tbsp lime juice
+* Coriander/cilantro , for garnish
