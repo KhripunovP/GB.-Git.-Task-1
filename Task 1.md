@@ -17,3 +17,7 @@
 * 3 tbsp fish sauce
 * 3 tbsp lime juice
 * Coriander/cilantro , for garnish
+### CREAMY TOM YUM OPTION
+* 1 1/2 tbsp Thai roasted chili sauce
+* 1/3 cup (75 ml) evaporated milk
+
