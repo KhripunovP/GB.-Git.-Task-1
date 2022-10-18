@@ -20,4 +20,8 @@
 ### CREAMY TOM YUM OPTION
 * 1 1/2 tbsp Thai roasted chili sauce
 * 1/3 cup (75 ml) evaporated milk
+---
+## Instructions
+#### [You can find instructions here](https://www.recipetineats.com/tom-yum-soup-thai/)
+---
 
