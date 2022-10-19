@@ -1,5 +1,5 @@
 # Tom Yum Soup (Thai soup)
-[You will like that](Tom-Yum.jpg)
+![You will like that](Tom-Yum.jpg)
 
 Contents
 * [Ingredients](#ingredients)
