@@ -6,7 +6,7 @@ Contents
 * [Creamy Tom Yum option](#creamy-tom-yum-option)
 * [Instructions](#instructions)
 ## Ingredients
-* 300g / 10oz whole prawns / shrimp with heads and shells on
+
 ### Broth
 * 3 cup (750 ml) water
 * 1/2 cup (125 ml) chicken stock/broth , low sodium
@@ -16,6 +16,7 @@ Contents
 * 2 Thai or birdseye chillies
 * 3 garlic cloves
 ### Soup add ins
+* 300g / 10oz whole prawns / shrimp with heads and shells on
 * 120g / 4oz oyster mushrooms
 * 1 roma tomato , cut into wedges
 * 1/2 white onion (medium sized), cut into wedges about 1 cm thick
