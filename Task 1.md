@@ -1,4 +1,4 @@
-# Tom Yum Soup (Thai soup)
+# **Tom Yum Soup (Thai soup)**
 ![You will like that](Tom-Yum.jpg)
 
 Contents
